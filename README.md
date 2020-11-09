@@ -1,0 +1,2 @@
+# histogram
+Example of histogram
