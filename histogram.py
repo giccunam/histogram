@@ -46,7 +46,7 @@ ax2.plot(x,data,'k*', label='$y=x^2$')
 
 
 
-plt.hist(data, bins='auto')
+plt.hist(data, bins=50)
 
 ax.set(xlabel='x', ylabel='f(x)',
        title='syntetic data')
